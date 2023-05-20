@@ -9,6 +9,7 @@ Snake Game is a classic arcade game where the player controls a snake to eat foo
 - [Documentation](#documentation)
 - [Contributing](#contributing)
 - [License](#license)
+- [Vote of thanks](#vote-of-thanks)
 
 ## Introduction
 
@@ -39,6 +40,13 @@ For detailed information about the code structure, variables, and functions, ple
 ## Contributing
 
 Contributions to the Snake Game project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## Vote of thanks
+
+
+It has been a project for my data structure and algorithm course, along with Israt Jerin Esha and R Rafiullah Labib.
+
+
 
 ## License
 
